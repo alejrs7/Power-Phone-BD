@@ -10,5 +10,5 @@
 ##  Tecnologías
 MySQL 8.4, MySQL Workbench, Draw.io, Git
 
-##  Autora
+##  Autor
 David Alejandro Ruiz Sanchez
