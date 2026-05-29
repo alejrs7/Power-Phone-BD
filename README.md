@@ -11,4 +11,4 @@
 MySQL 8.4, MySQL Workbench, Draw.io, Git
 
 ##  Autora
-Maria Teresa Rivas Apolo
+David Alejandro Ruiz Sanchez
