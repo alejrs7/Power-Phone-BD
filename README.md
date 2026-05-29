@@ -1,14 +1,14 @@
-# 📱 Power-Phone – Sistema de Gestión de Base de Datos
+#  Power-Phone – Sistema de Gestión de Base de Datos
 
-## 📌 Descripción
+##  Descripción
 **Power-Phone** es una base de datos relacional para la gestión de una tienda de accesorios móviles.
 
-## 🗂️ Estructura del repositorio
+## Estructura del repositorio
 - `/Diagramas` → Modelos gráficos (ER y Relacional)
 - `/ScriptsSQL` → DDL.sql, DML.sql, Consultas.sql
 
-## 💻 Tecnologías
+##  Tecnologías
 MySQL 8.4, MySQL Workbench, Draw.io, Git
 
-## 👩‍💻 Autora
+##  Autora
 Maria Teresa Rivas Apolo
